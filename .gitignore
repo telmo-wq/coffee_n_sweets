@@ -1,0 +1,21 @@
+# Variaveis de Ambiente e Segredos
+.env
+*.env
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Compilados e Artefatos
+bin/
+target/
+build/
+.gradle/
+
+# Logs e arquivos de SO
+*.log
+.DS_Store
+Thumbs.db
